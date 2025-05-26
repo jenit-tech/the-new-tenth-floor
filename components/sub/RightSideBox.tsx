@@ -227,7 +227,7 @@ export default function RightSideBox() {
 
                 </div>
                 {activeCardIndex === index && (
-                  <div className="mt-4 relative "> {/* Make container relative for absolute positioning */}
+                  <div className="mt-4 relative"> {/* Make container relative for absolute positioning */}
                     {/* Close Button */}
                     <button
                       onClick={() => setActiveCardIndex(null)} // Or your close handler

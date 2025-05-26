@@ -87,6 +87,7 @@ const Footer = () => {
           >
            Training 
           </a>
+         
         </div>
 
         {/* Address section */}
@@ -94,9 +95,16 @@ const Footer = () => {
           <p className="font-roboto font-normal pb-2 text-[14px] md:text-[16px] leading-[100%] tracking-[0%] text-[#570B97]">
             36 Robinson Road, #20-01,
           </p>
-          <p className="font-roboto font-normal text-[14px] md:text-[16px] leading-[100%] tracking-[0%] text-[#570B97]">
+          <p className="font-roboto font-normal text-[14px] md:text-[16px] leading-[100%] tracking-[0%] text-[#570B97] mb-5">
             City House, Singapore 068877
           </p>
+          <a
+             href="https://public.tableau.com/app/profile/thetenthfloor/vizzes#!/"
+            target="_blank"
+            className="pointer-events-auto  font-roboto py-1 md:px-3 font-normal text-[14px] md:text-[16px] leading-[100%] tracking-[0%] text-[#570B97]"
+          >
+          Our gallery 
+          </a>
         </div>
 
         {/* Email input and button */}
