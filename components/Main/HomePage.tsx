@@ -25,7 +25,7 @@ const HomePage = () => {
                 </p>
 
                 <p className=" font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
-                Because the best decisions aren't just data-driven. They're human-inspired.
+                Because the best decisions aren&apos;t   just data-driven. They're human-inspired.
 
                 </p>
 

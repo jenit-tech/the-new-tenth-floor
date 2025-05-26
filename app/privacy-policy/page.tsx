@@ -102,7 +102,7 @@ We don&rsquo;t do any online transactions.
          </p>
          <p className="font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-1 whitespace-pre-line">
          Yes. Cookies are small files that a site or its service provider transfers to your computer&rsquo;s hard
-drive through your Web browser (if you allow) that enables the site&rsquo;s or service provider's
+drive through your Web browser (if you allow) that enables the site&rsquo;s or service provider&rsquo;s
 systems to recognize your browser and capture and remember certain information. For
 instance, we use cookies to help us remember and process the items in your shopping cart.
 They are also used to help us understand your preferences based on previous or current site
@@ -133,7 +133,7 @@ choose to turn off all cookies. You do this through your browser settings. Since
 different, look at your browser&rsquo;s Help Menu to learn the correct way to modify your cookies.
          </p>
          <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
-         If you turn cookies off, some features will be disabled. It won&rsquo;t affect the user's experience that
+         If you turn cookies off, some features will be disabled. It won&rsquo;t affect the user&#39;s experience that
          make your site experience more efficient and may not function properly.
          </p>
          <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
@@ -253,7 +253,7 @@ a Do Not Track (DNT) browser mechanism is in place.
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
          When it comes to the collection of personal information from children under the age of 13
 years old, the Children&rsquo;s Online Privacy Protection Act (COPPA) puts parents in control.
-The Federal Trade Commission, United States' consumer protection agency, enforces the
+The Federal Trade Commission, United States&apos; consumer protection agency, enforces the
 COPPA Rule, which spells out what operators of websites and online services must do to
 protect Children&rsquo;s privacy and safety online.
 We do not specifically market to children under the age of 13 years old.
