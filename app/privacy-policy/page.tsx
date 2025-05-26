@@ -44,7 +44,7 @@ const page = () => {
          <p className=" font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
          Our Contact Information <br/>
 This privacy policy has been compiled to better serve those who are concerned with how their
-'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy
+&lsquo;Personally Identifiable Information&rsquo; (PII) is being used online. PII, as described in US privacy
 law and information security, is information that can be used on its own or with other information
 to identify, contact, or locate a single person, or to identify an individual in context. Please read
 our privacy policy carefully to get a clear understanding of how we collect, use, protect or
@@ -93,16 +93,16 @@ We do not use an SSL certificate
  
 </ul>
 <p className="font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-1 whitespace-pre-line">
-We don't do any online transactions.
+We don&rsquo;t do any online transactions.
         </p>
 
 
         <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
-        Do we use 'cookies'?
+        Do we use &lsquo;cookies&rsquo;?
          </p>
          <p className="font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-1 whitespace-pre-line">
-         Yes. Cookies are small files that a site or its service provider transfers to your computer's hard
-drive through your Web browser (if you allow) that enables the site's or service provider's
+         Yes. Cookies are small files that a site or its service provider transfers to your computer&rsquo;s hard
+drive through your Web browser (if you allow) that enables the site&rsquo;s or service provider's
 systems to recognize your browser and capture and remember certain information. For
 instance, we use cookies to help us remember and process the items in your shopping cart.
 They are also used to help us understand your preferences based on previous or current site
@@ -116,7 +116,8 @@ experiences and tools in the future.
          </p>
          <ul className="list-disc ml-6">
   <li className="font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-1 whitespace-pre-line">
-  Understand and save user's preferences for future visits.</li>
+  Understand and save user&rsquo;s
+  preferences for future visits.</li>
  
   <li className="font-heleveticaNeue font-normal text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-1 whitespace-pre-line">
   Keep track of advertisements.</li>
@@ -129,10 +130,10 @@ information on our behalf.</li>
   <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
   You can choose to have your computer warn you each time a cookie is being sent, or you can
 choose to turn off all cookies. You do this through your browser settings. Since browser is a little
-different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+different, look at your browser&rsquo;s Help Menu to learn the correct way to modify your cookies.
          </p>
          <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
-         If you turn cookies off, some features will be disabled. It won't affect the user's experience that
+         If you turn cookies off, some features will be disabled. It won&rsquo;t affect the user's experience that
          make your site experience more efficient and may not function properly.
          </p>
          <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
@@ -160,13 +161,13 @@ we seek to protect the integrity of our site and welcome any feedback about thes
          Google
          </p>
          <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
-         Google's advertising requirements can be summed up by Google's Advertising Principles. They
+         Google&rsquo;s advertising requirements can be summed up by Google&rsquo;s Advertising Principles. They
 are put in place to provide a positive experience for users.
 https://support.google.com/adwordspolicy/answer/1316548?hl=en
 We use Google AdSense Advertising on our website.
          </p>
          <p className="font-normal font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
-         Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the
+         Google, as a third-party vendor, uses cookies to serve ads on our site. Google&rsquo;s use of the
 DART cookie enables it to serve ads to our users based on previous visits to our site and other
 sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad
 and Content Network privacy policy.
@@ -201,7 +202,7 @@ Opt Out page or by using the Google Analytics Opt Out Browser add on.
          </p>
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
          CalOPPA is the first state law in the nation to require commercial websites and online
-services to post a privacy policy. The law's reach stretches well beyond California to
+services to post a privacy policy. The law&rsquo;s reach stretches well beyond California to
 require any person or company in the United States (and conceivably the world) that
 operates websites collecting Personally Identifiable Information from California
 consumers to post a conspicuous privacy policy on its website stating exactly the
@@ -219,7 +220,7 @@ http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.
          Users can visit our site anonymously. <br/>
 Once this privacy policy is created, we will add a link to it on our home page or as a
 minimum, on the first significant page after entering our website.
-Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the
+Our Privacy Policy link includes the word &lsquo;Privacy&rsquo; and can be easily be found on the
 page specified above.
          </p>
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
@@ -244,17 +245,17 @@ a Do Not Track (DNT) browser mechanism is in place.
          </p>
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
          Does our site allow third-party behavioral tracking? <br/>
-         It's also important to note that we allow third-party behavioral tracking
+         It&rsquo;s also important to note that we allow third-party behavioral tracking
          </p>
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
          COPPA (Children Online Privacy Protection Act)
          </p>
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
          When it comes to the collection of personal information from children under the age of 13
-years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control.
+years old, the Children&rsquo;s Online Privacy Protection Act (COPPA) puts parents in control.
 The Federal Trade Commission, United States' consumer protection agency, enforces the
 COPPA Rule, which spells out what operators of websites and online services must do to
-protect children's privacy and safety online.
+protect Children&rsquo;s privacy and safety online.
 We do not specifically market to children under the age of 13 years old.
          </p>
          <p className="font-bold font-heleveticaNeue  text-[14px] md:text-[16px] leading-[1.4] tracking-[0.01em] align-middle text-[#570B97] mt-4 whitespace-pre-line">
